@@ -21,7 +21,7 @@ os.system("clear")
 os.system("figlet DDos Attack")
 print
 print "Author   : RED BACKED"
-print "You Tube : https://www.youtube.com/channel/UCfcSm-_riPVAniAqDBiZ7qw"
+print "YouTube  : https://www.youtube.com/channel/UCfcSm-_riPVAniAqDBiZ7qw"
 print "github   : https://github.com/ReD-BackeD"
 print "Facebook : https://www.facebook.com/RED.BACKED"
 print
