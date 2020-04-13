@@ -13,7 +13,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### chmod +x redbacked-attack.py
 
-### python redbacked-attack.py
+### python2 redbacked-attack.py
 
 ### YouTube channel 
 
