@@ -9,7 +9,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### git clone https://github.com/ReD-BackeD/RED_BACKED
 
-### cd RED BACKED
+### cd RED_BACKED
 
 ### chmod +x redbacked-attack.py
 
