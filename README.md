@@ -11,9 +11,9 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### cd RED BACKED
 
-### chmod +x red backed.py
+### chmod +x redbacked-attack.py
 
-### python red backed.py
+### python redbacked-attack.py
 
 ### YouTube channel 
 
